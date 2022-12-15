@@ -1,0 +1,7 @@
+name: sorter
+
+dependencies:
+  cli_util: 0.3.5
+  http:  0.13.5
+environment:
+  sdk: '>=2.10.0 <3.0.0'
