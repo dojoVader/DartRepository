@@ -11,7 +11,7 @@ import 'package:http/http.dart' as http;
 bool PC_RUNNING = true;
 HttpClient httpClient;
 
-final String API_KEY="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";
+final String API_KEY="xxxx-xx";
 
 void main(List<String> args) async {
   String question = null;
