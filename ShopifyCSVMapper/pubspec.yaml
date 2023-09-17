@@ -1,0 +1,6 @@
+name: ShopifyCSVMapper
+
+dependencies:
+  csv: ^5.0.2
+environment:
+  sdk: '3.0.6'
